@@ -61,4 +61,4 @@ jobs:
           app-name: 'minhaapi123'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_43EFC1B7DE2041B19EB7F075453D84B0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DD308B6EC944EE0994AD09D49830F0B }}
